@@ -1,2 +1,3 @@
-# algorithmsAndDataStructures
-Some code from assignments from my CS211 class
+# Algorithms_and_DataStructures
+Some code from assignments from my CS210 and CS211 modules
+more to follow...
